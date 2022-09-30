@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <a href=HALAMAN1.html>Home</a><hr>
+    <a href=HALAMAN2.html>Anime List    </a><hr>
+    <a href=HALAMAN3.html>On-Going Anime    </a><hr>
+    <a href=HALAMAN4.html>Gende List    </a><hr>
+    <a href=HALAMAN5.html>Profile   </a><hr>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <h1 style="text-align:center">ANIMEKU</h1>
+    <table style="width:100% ;" border="1">
+        <thead>
+            <tr style="height: 40px;">
+                <td colspan="3" style="text-align: center; color: brown; background-color: pink;">Anime list</td>
+            </tr>
+        </thead>
+        <thbody>
+            <tr>
+                <td style="text-align: justify; color: black; width: 30%;"><h4>Naruto</h4><br>
+                    Naruto (ナルト) adalah sebuah serial manga karya Masashi Kishimoto yang diadaptasi menjadi serial anime. Manga Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya. Serial ini didasarkan pada komik one-shot oleh Kishimoto yang diterbitkan dalam edisi Akamaru Jump pada Agustus 1997
+        </td>
+                <td style="text-align: justify; color: black; "><h4>One-Punch Man</h4><br>
+                    One-Punch Man ( ワンパンマン Wanpanman) adalah sebuah serial manga Jepang yang menceritakan seorang superhero yang bernama Saitama. One-Punch Man dibuat oleh seorang penulis yang asal jepang dengan nama samaran ONE[1] yang mulai diterbitkan pada awal tahun 2009.[2] Serial ini segera menjadi viral sehingga mampu melampaui 7,9 juta hits pada bulan Juni 2012.[3] One-Punch Man merupakan kontraksi wanpanchi ("One-Punch") yang artinya satu pukulan 
+                </td>
+                <td style="text-align: justify; color: black; "><h4>Shingeki no Kyojin</h4><br>
+                    Shingeki no Kyojin (bahasa Jepang: 進撃の巨人, terj. har. "Raksasa [yang] Menyerang"), yang diterbitkan di Indonesia dengan judul Attack on Titan, adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Hajime Isayama. Ceritanya berlatar di dunia tempat umat manusia hidup di wilayah yang dikelilingi tiga lapis tembok besar, yang melindungi mereka dari makhluk pemakan manusia berukuran raksasa yang dikenal sebagai Titan. Manga ini dimuat berseri dalam majalah Bessatsu Shōnen Magazine terbitan Kodansha sejak bulan September 2009 hingga April 2021, dan telah diterbitkan menjadi 34 volume tankōbon per bulan Desember 2020. 
+                </td>
+                <br>
+            </tr>
+            <tr style="height: 40px;">
+                <td colspan="3" style="text-align: center; color: brown; background-color: pink;">On-Going Anime</td>
+            </tr>
+        </thead>
+        <thbody>
+            <tr>
+                <td style="text-align: justify; color: black; width: 30%;"><h4>Naruto</h4><br>
+                    Naruto (ナルト) adalah sebuah serial manga karya Masashi Kishimoto yang diadaptasi menjadi serial anime. Manga Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya. Serial ini didasarkan pada komik one-shot oleh Kishimoto yang diterbitkan dalam edisi Akamaru Jump pada Agustus 1997
+        </td>
+                <td style="text-align: justify; color: black; "><h4>One-Punch Man</h4><br>
+                    One-Punch Man ( ワンパンマン Wanpanman) adalah sebuah serial manga Jepang yang menceritakan seorang superhero yang bernama Saitama. One-Punch Man dibuat oleh seorang penulis yang asal jepang dengan nama samaran ONE[1] yang mulai diterbitkan pada awal tahun 2009.[2] Serial ini segera menjadi viral sehingga mampu melampaui 7,9 juta hits pada bulan Juni 2012.[3] One-Punch Man merupakan kontraksi wanpanchi ("One-Punch") yang artinya satu pukulan 
+                </td>
+                <td style="text-align: justify; color: black; "><h4>Shingeki no Kyojin</h4><br>
+                    Shingeki no Kyojin (bahasa Jepang: 進撃の巨人, terj. har. "Raksasa [yang] Menyerang"), yang diterbitkan di Indonesia dengan judul Attack on Titan, adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Hajime Isayama. Ceritanya berlatar di dunia tempat umat manusia hidup di wilayah yang dikelilingi tiga lapis tembok besar, yang melindungi mereka dari makhluk pemakan manusia berukuran raksasa yang dikenal sebagai Titan. Manga ini dimuat berseri dalam majalah Bessatsu Shōnen Magazine terbitan Kodansha sejak bulan September 2009 hingga April 2021, dan telah diterbitkan menjadi 34 volume tankōbon per bulan Desember 2020. 
+                </td>
+                <br>
+            </tr>
+            <tr style="height: 40px;">
+                <td colspan="3" style="text-align: center; color: brown; background-color: pink;">Genre List</td>
+            </tr>
+        </thead>
+        <thbody>
+            <tr>
+                <td style="text-align: justify; color: black; width: 30%;"><h4>Action</h4><br>
+                    Genre ini biasanya tergolong dari para remaja yang menyukai aksi, mulai dari konflik bersenjata, adegan babak belur. Adegan perang secara berkelompok.
+        </td>
+                <td style="text-align: justify; color: black; "><h4>Comedi</h4><br>
+                    Genre comedy tentunya berhubungan dengan hal yang berbau mengasyikan, dapat menghibur penonton dengan lawakan yang disajikan dalam anime tersebut. 
+                </td>
+                <td style="text-align: justify; color: black; "><h4>Romance</h4><br>
+                    Menceritakan kisah percintaan sepasang kekasih yang sedang menjalani pendekatan. Genre yang sangat banyak ditonton oleh kaum wanita, sebab wanita sangat menyukai pria romantis.
+                </td>
+                <br>
+            </tr>
+            <tr>
+                <td colspan="3" style="text-align: center; color: brown; background-color: pink;">Designed By Henry Dedy Doken</td>
+            </tr>
+        </thbody>
+    </table>
+    
+</body>
+</html>

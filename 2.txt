@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <a href=HALAMAN1.html>Home</a><hr>
+    <a href=HALAMAN2.html>Anime List    </a><hr>
+    <a href=HALAMAN3.html>On-Going Anime    </a><hr>
+    <a href=HALAMAN4.html>Gende List    </a><hr>
+    <a href=HALAMAN5.html>Profile   </a><hr>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime List</title>
+</head>
+<body>
+    <!--test-->
+    <h1 style="text-align: center;"><b>Selamat datang </b> di<i> ANIMEKU</i></h1>
+    <hr>
+    <img src="https://i.pinimg.com/originals/4b/eb/e1/4bebe13490a2854f4add6d632d8abfa6.jpg">
+</body>
+</html>

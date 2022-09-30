@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <a href=HALAMAN1.html>Home</a><hr>
+    <a href=HALAMAN2.html>Anime List    </a><hr>
+    <a href=HALAMAN3.html>On-Going Anime    </a><hr>
+    <a href=HALAMAN4.html>Gende List    </a><hr>
+    <a href=HALAMAN5.html>Profile   </a><hr>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gendre List</title>
+</head>
+<h1 style="text-align: center;">Genre List</h1>
+<body>
+    <table style="width:100% ;" border="1">
+        <thead>
+            <tr style="height: 40px;">
+                <td colspan="3" style="text-align: center; color: brown; background-color: pink;">Action</td>
+            </tr>
+        </thead>
+        <thbody>
+            <tr>
+                <td style="text-align: justify; color: black; width: 30%;"><h4>Naruto</h4><br>
+                    Naruto (ナルト) adalah sebuah serial manga karya Masashi Kishimoto yang diadaptasi menjadi serial anime. Manga Naruto bercerita seputar kehidupan tokoh utamanya, Naruto Uzumaki, seorang ninja yang hiperaktif, periang, dan ambisius yang ingin mewujudkan keinginannya untuk mendapatkan gelar Hokage, pemimpin dan ninja terkuat di desanya. Serial ini didasarkan pada komik one-shot oleh Kishimoto yang diterbitkan dalam edisi Akamaru Jump pada Agustus 1997
+        </td>
+                <td style="text-align: justify; color: black; "><h4>One-Punch Man</h4><br>
+                    One-Punch Man ( ワンパンマン Wanpanman) adalah sebuah serial manga Jepang yang menceritakan seorang superhero yang bernama Saitama. One-Punch Man dibuat oleh seorang penulis yang asal jepang dengan nama samaran ONE[1] yang mulai diterbitkan pada awal tahun 2009.[2] Serial ini segera menjadi viral sehingga mampu melampaui 7,9 juta hits pada bulan Juni 2012.[3] One-Punch Man merupakan kontraksi wanpanchi ("One-Punch") yang artinya satu pukulan 
+                </td>
+                <td style="text-align: justify; color: black; "><h4>Shingeki no Kyojin</h4><br>
+                    Shingeki no Kyojin (bahasa Jepang: 進撃の巨人, terj. har. "Raksasa [yang] Menyerang"), yang diterbitkan di Indonesia dengan judul Attack on Titan, adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Hajime Isayama. Ceritanya berlatar di dunia tempat umat manusia hidup di wilayah yang dikelilingi tiga lapis tembok besar, yang melindungi mereka dari makhluk pemakan manusia berukuran raksasa yang dikenal sebagai Titan. Manga ini dimuat berseri dalam majalah Bessatsu Shōnen Magazine terbitan Kodansha sejak bulan September 2009 hingga April 2021, dan telah diterbitkan menjadi 34 volume tankōbon per bulan Desember 2020. 
+                </td>
+                <br>
+            </tr>
+            <tr style="height: 40px;">
+                <td colspan="3" style="text-align: center; color: brown; background-color: pink;">Romance</td>
+            </tr>
+        </thead>
+        <thbody>
+            <tr>
+                <td style="text-align: justify; color: black; width: 30%;"><h4>Your Name</h4><br>
+                    Your Name. (Jepang: 君の名は。; Romaji: Kimi no Na wa; harfiah: "Namamu.") adalah sebuah film anime Jepang produksi tahun 2016 bergenre fantasi yang ditulis dan disutradarai oleh Makoto Shinkai dan diproduksi oleh CoMix Wave Films.[3] Perancangan tokoh film ini dikerjakan oleh Masayoshi Tanaka, dan penciptaan musik dibuat oleh band rock asal Jepang Radwimps. Film ini dibuat berdasarkan novel karya Makoto Shinkai berjudul sama yang dirilis sebulan sebelum pemutaran perdananya tentang seorang siswi di pedesaan Jepang dan seorang siswa di Tokyo yang saling bertukar tubuh.[4] Film ini dibintangi oleh Ryunosuke Kamiki, Mone Kamishiraishi, Masami Nagasawa dan Etsuko Ichihara.
+        </td>
+                <td style="text-align: justify; color: black; "><h4>Weathering with You</h4><br>
+                    Weathering with You (bahasa Jepang: 天気の子 Hepburn: Tenki no Ko, terj. har. "Anak [Sang] Cuaca") adalah sebuah film animasi drama romantis Jepang bergenre fantasi yang ditulis dan disutradarai oleh Makoto Shinkai, yang dikenal atas film karyanya pada tahun 2016 berjudul Your Name. Weathering with You berlatar di Jepang yang dilanda cuaca hujan yang sangat deras. Film ini mengisahkan tentang Hodaka Morishima, seorang remaja SMA yang pergi ke Tokyo dan berteman dengan seorang anak gadis yatim bernama Hina Amano, yang mampu memanipulasi cuaca. Film ini diproduksi oleh CoMix Wave Films, Genki Kawamura, dan Story Inc., sementara musiknya diciptakan oleh Radwimps. Film ini ditayangkan di Jepang pada tanggal 19 Juli 2019. Sebuah adaptasi novel yang ditulis oleh Shinkai, diterbitkan pada tanggal 18 Juli 2019, sehari sebelum penayangan film. Novel tersebut merupakan salah satu karya orisinalnya. Sebuah adaptasi manga yang diilustrasikan oleh Watari Kubota mulai dimuat berseri dalam majalah Afternoon terbitan Kodansha pada tanggal 25 Juli, enam hari setelah film ini diterbitkan. Film ini dipilih sebagai perwakilan Jepang untuk Film Internasional Terbaik pada acara Academy Awards ke-92
+                </td>
+                <td style="text-align: justify; color: black; "><h4>Koe no Katachi</h4><br>
+                    A Silent Voice: The Movie (bahasa Jepang: 映画 聲の形 Hepburn: Eiga Koe no Katachi, juga diterjemahkan sebagai The Shape of Voice: The Movie) adalah sebuah film drama remaja animasi Jepang tahun 2016 yang diproduksi oleh Kyoto Animation, disutradarai oleh Naoko Yamada dan ditulis oleh Reiko Yoshida, menampilkan desain karakter karya Futoshi Nishiya dan musik karya Kensuke Ushio.[3] Film ini diadaptasi dari manga berjudul sama yang ditulis dan diilustrasikan oleh Yoshitoki Ōima. Film ini diputar perdana di Jepang pada tanggal 17 September 2016 dan di seluruh dunia antara bulan Februari dan Juni 2017.
+                </td>
+                <br>
+            </tr>
+        </thead>
+        <thbody>
+            <tr>
+                <td style="text-align: justify; color: black; width: 30%;"><h4>Haikyu!!</h4><br>
+                    Haikyu!! (bahasa Jepang: ハイキュー!! Hepburn: Haikyū!!, dari huruf kanji 排球 terj. har. "bola voli"), yang diterbitkan di Indonesia dengan judul Haikyu!! Fly High! Volleyball!, adalah sebuah seri manga shōnen asal Jepang yang ditulis dan diilustrasikan oleh Haruichi Furudate. Bab-bab tunggalnya telah dimuat dalam majalah Weekly Shōnen Jump sejak bulan Februari 2012 hingga Juli 2020. Manga ini pada awalnya dirilis sebagai cerita one shot dalam majalah musiman Jump NEXT! milik Shueisha sebelum dimuat berseri. Per bulan Juli 2020, empat puluh lima volume tankōbon telah diterbitkan oleh Shueisha
+        </td>
+                <td style="text-align: justify; color: black; "><h4>Captain Tsubasa</h4><br>
+                    Tsubasa adalah seorang anak SD yang baru saja pindah dari kota lain ke Nankatsu. Dia ingin bermain sepak bola dan menjadi pemain terbaik. Ketika masuk ke sekolah barunya, dia langsung masuk ke klub sepak bola di sekolah itu. Kapten klub itu adalah Ishizaki. Mereka lalu berlatih di lapangan, tetapi diganggu oleh klub lain yang dipimpin oleh Genzo Wakabayashi. Mereka lalu bertanding, bila Nankatsu bisa membuat gol satu saja, maka mereka diizinkan memakai lapangan untuk berlatih. Awalnya, Nankatsu selalu kebobolan dan bermain setengah lapangan. Ketika salah satu pemainnya cedera, Tsubasa didaulat menjadi bek.
+                </td>
+                <td style="text-align: justify; color: black; "><h4>Kuroko no Basket</h4><br>
+                    Kuroko no Basket (bahasa Jepang: 黒子のバスケ), yang diterbitkan di Indonesia dengan judul Kuroko's Basketball, adalah sebuah seri manga shōnen Jepang yang ditulis dan diilustrasikan oleh Tadatoshi Fujimaki. Manga ini mulai dimuat dalam majalah Weekly Shōnen Jump sejak bulan Desember 2008 hingga September 2014, dan bab-bab tunggalnya telah dibundel menjadi 30 volume tankōbon oleh Shueisha. Ceritanya mengisahkan tentang tim bola basket SMA yang mencoba untuk bermain pada turnamen tingkat nasional.
+                </td>
+                <br>
+            </tr>
+        </thead>
+    </table>
+</body>
+</html>
