@@ -75,13 +75,12 @@
   </table>  
 </div>  
 </body>
-<script type="text/javascript">  
-     
-  $("form").submit(function(e){  
+<script type="text/javascript">
+$("form").submit(function(e){  
       e.preventDefault();  
       var name = $("input[name='name']").val();  
       var nim = $("input[name='nim']").val();  
-     
+      
       $(".data-table tbody").append("<tr data-name='"+name+"' data-nim='"+nim+"'><td>"+name+"</td><td>"+nim+"</td><td><button class='btn btn-info btn-xs btn-edit'>Edit</button><button class='btn btn-danger btn-xs btn-delete'>Delete</button></td></tr>");  
     
       $("input[name='name']").val('');  
